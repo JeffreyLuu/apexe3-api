@@ -72,8 +72,10 @@ def process_ask_imbalances(event):
 
 
 def init():
-    clientId = "your-client-id-goes-here"
-    clientSecret = "your-client-secret-goes-here"
+    with open('./../secret.txt', 'r') as f:
+        clientId = f.readline().strip()
+        clientSecret = f.readline().strip()
+    f.close()
     emitter = initialise(clientId, clientSecret)
     emitter.on('SPREAD', process_spread)
     

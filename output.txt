@@ -1,0 +1,2110 @@
+--------- Authenticating ---------
+
+
+--------- Authentication Token Recieved ---------
+
+
+eyJhbGciOiJSUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICJ3SmR4cWZsN1N0MXBvVkdrVVJST3pjNXlUSm43NHFEaDl5cmUxbHJZN1AwIn0.eyJleHAiOjE2MDU2NjQ2NTgsImlhdCI6MTYwNTY0NjY1OCwianRpIjoiZGJhNDQwNTgtYjNjMi00ZDllLWFiNGQtNDUwOGY4MDgzNjdmIiwiaXNzIjoiaHR0cHM6Ly9rZXljbG9hay5hZTNwbGF0Zm9ybS5jb20vYXV0aC9yZWFsbXMvQXBleEUzIiwiYXVkIjoiYWNjb3VudCIsInN1YiI6ImU2MjZkODMzLTUwZGUtNDRkMC1iYmFmLTgzMjhkYTI2ZjViZiIsInR5cCI6IkJlYXJlciIsImF6cCI6ImRhcGktc2hlbmd3ZWktbHUtbG1oLW94LWFjLXVrIiwic2Vzc2lvbl9zdGF0ZSI6ImMwYTNiMDIxLTE1MTMtNGVjMS04OTkzLTBhODg3N2U3Yzc2ZiIsImFjciI6IjEiLCJhbGxvd2VkLW9yaWdpbnMiOlsiKiJdLCJyZWFsbV9hY2Nlc3MiOnsicm9sZXMiOlsidXNlci1mdW5kIiwib2ZmbGluZV9hY2Nlc3MiLCJ1bWFfYXV0aG9yaXphdGlvbiJdfSwicmVzb3VyY2VfYWNjZXNzIjp7ImFjY291bnQiOnsicm9sZXMiOlsibWFuYWdlLWFjY291bnQiLCJtYW5hZ2UtYWNjb3VudC1saW5rcyIsInZpZXctcHJvZmlsZSJdfX0sInNjb3BlIjoiZW1haWwgcHJvZmlsZSIsImNsaWVudEhvc3QiOiIzNy4xMjAuMTMzLjQiLCJjbGllbnRJZCI6ImRhcGktc2hlbmd3ZWktbHUtbG1oLW94LWFjLXVrIiwiZW1haWxfdmVyaWZpZWQiOmZhbHNlLCJwcmVmZXJyZWRfdXNlcm5hbWUiOiJzZXJ2aWNlLWFjY291bnQtZGFwaS1zaGVuZ3dlaS1sdS1sbWgtb3gtYWMtdWsiLCJjbGllbnRBZGRyZXNzIjoiMzcuMTIwLjEzMy40In0.Mu589hSa_bgEHbF1tgPCAgoeBeGG9gtq81m_Zry58sMmarfnn4GAE1HvrEiA-y4WhBavCaEAq1MTWo2GAdxA9aRt7VKX0u8BF6TT1LXi1ZAMMwE-G0BUiCYFEcQKGmZVKoadYFybC4OlEiMrQzwddijTIk0UZ6Vk8fWEguMgCuWJPL6yDNjVZHRGYXGwGuAFXvN7y6PkHzFDWta0Zgsto5G28OJh98ItYADwltA0eorqa3CoRrO9VFykdnW9gHp3qNkcnzzhwb1n_rkrXbHvbIMaOao1p8dGR6PexDTwJorYzUVW1dLwEcAtHpfP7jzTcxT2QTfN_mNf1UQyZrqOCQ
+
+
+
+exchange     HITBTC
+bid size    0.00025
+bid px      17677.8
+ask px      17575.1
+ask aize    1.27042
+exchange       OKEX
+Name: 0, dtype: object
+exchange          FTX
+bid size      18.0592
+bid px        17677.5
+ask px        17576.4
+ask aize    0.0860545
+exchange         OKEX
+Name: 1, dtype: object
+exchange       HITBTC
+bid size        0.124
+bid px        17677.3
+ask px        17576.6
+ask aize    0.0323519
+exchange         OKEX
+Name: 2, dtype: object
+exchange        FTX
+bid size       0.01
+bid px        17677
+ask px      17576.7
+ask aize     1.1394
+exchange       OKEX
+Name: 3, dtype: object
+exchange       GATEIO
+bid size       0.0001
+bid px        17676.6
+ask px        17578.2
+ask aize    0.0053202
+exchange         OKEX
+Name: 4, dtype: object
+exchange        FTX
+bid size       0.01
+bid px      17676.5
+ask px      17578.3
+ask aize     0.3961
+exchange       OKEX
+Name: 5, dtype: object
+exchange        FTX
+bid size     0.1414
+bid px        17676
+ask px      17579.8
+ask aize      0.321
+exchange       OKEX
+Name: 6, dtype: object
+exchange    BINANCEUS
+bid size     0.008009
+bid px          17676
+ask px          17580
+ask aize          0.5
+exchange         OKEX
+Name: 7, dtype: object
+exchange        FTX
+bid size      0.125
+bid px        17674
+ask px      17580.4
+ask aize       0.15
+exchange       OKEX
+Name: 8, dtype: object
+exchange      HITBTC
+bid size     0.00342
+bid px         17674
+ask px       17581.2
+ask aize    0.195616
+exchange        OKEX
+Name: 9, dtype: object
+exchange     HITBTC
+bid size        0.1
+bid px        17674
+ask px      17581.9
+ask aize     0.3058
+exchange       OKEX
+Name: 10, dtype: object
+exchange     HITBTC
+bid size    0.09703
+bid px        17674
+ask px      17583.3
+ask aize          1
+exchange       OKEX
+Name: 11, dtype: object
+exchange        HITBTC
+bid size         0.532
+bid px         17673.9
+ask px         17584.7
+ask aize    0.00105658
+exchange          OKEX
+Name: 12, dtype: object
+exchange       FTX
+bid size    0.0999
+bid px       17673
+ask px       17585
+ask aize    0.0768
+exchange      OKEX
+Name: 13, dtype: object
+exchange       GATEIO
+bid size         0.01
+bid px        17672.9
+ask px        17585.1
+ask aize    0.0621892
+exchange         OKEX
+Name: 14, dtype: object
+exchange     GATEIO
+bid size       0.01
+bid px      17672.8
+ask px      17585.7
+ask aize       0.24
+exchange       OKEX
+Name: 15, dtype: object
+exchange     HITBTC
+bid size    0.10842
+bid px      17672.6
+ask px      17586.1
+ask aize    0.00288
+exchange       OKEX
+Name: 16, dtype: object
+exchange     HITBTC
+bid size    0.02119
+bid px      17672.5
+ask px      17586.5
+ask aize     0.3462
+exchange       OKEX
+Name: 17, dtype: object
+exchange        FTX
+bid size     0.0465
+bid px      17672.5
+ask px      17586.6
+ask aize       0.15
+exchange       OKEX
+Name: 18, dtype: object
+exchange      GATEIO
+bid size      0.0004
+bid px       17672.4
+ask px       17586.9
+ask aize    0.199416
+exchange        OKEX
+Name: 19, dtype: object
+exchange      FTX
+bid size    0.424
+bid px      17672
+ask px      17587
+ask aize        2
+exchange     OKEX
+Name: 20, dtype: object
+exchange        GATEIO
+bid size         0.088
+bid px         17671.7
+ask px         17588.2
+ask aize    0.00105637
+exchange          OKEX
+Name: 21, dtype: object
+exchange     GATEIO
+bid size       0.01
+bid px      17671.6
+ask px      17588.6
+ask aize          2
+exchange       OKEX
+Name: 22, dtype: object
+exchange     BINANCE
+bid size    0.002018
+bid px       17670.1
+ask px       17588.9
+ask aize      0.0808
+exchange        OKEX
+Name: 23, dtype: object
+exchange        FTX
+bid size    14.0554
+bid px        17670
+ask px        17590
+ask aize    0.00294
+exchange       OKEX
+Name: 24, dtype: object
+exchange     POLONIEX
+bid size    8.213e-05
+bid px          17670
+ask px        17668.1
+ask aize      18.1402
+exchange     HUOBIPRO
+Name: 25, dtype: object
+exchange     BINANCE
+bid size    0.001245
+bid px         17670
+ask px       17669.2
+ask aize       0.043
+exchange    HUOBIPRO
+Name: 26, dtype: object
+exchange      GATEIO
+bid size      0.0282
+bid px         17670
+ask px       17669.3
+ask aize    0.139009
+exchange    HUOBIPRO
+Name: 27, dtype: object
+exchange    BINANCEUS
+bid size     0.507381
+bid px        17669.8
+ask px        17669.5
+ask aize      0.24769
+exchange     HUOBIPRO
+Name: 28, dtype: object
+exchange     BINANCE
+bid size    0.217233
+bid px       17669.6
+ask px       17670.1
+ask aize     3.80612
+exchange     BINANCE
+Name: 29, dtype: object
+exchange     BINANCE
+bid size       0.002
+bid px       17669.6
+ask px       17670.2
+ask aize     1.99915
+exchange    POLONIEX
+Name: 30, dtype: object
+exchange     BINANCE
+bid size    0.216533
+bid px       17669.4
+ask px       17670.4
+ask aize    0.010412
+exchange     BINANCE
+Name: 31, dtype: object
+exchange     BINANCE
+bid size    0.618664
+bid px       17669.4
+ask px       17670.4
+ask aize        2.15
+exchange     BINANCE
+Name: 32, dtype: object
+exchange        FTX
+bid size     0.4423
+bid px        17669
+ask px      17670.7
+ask aize    0.07683
+exchange    BINANCE
+Name: 33, dtype: object
+exchange     BINANCE
+bid size    0.002021
+bid px         17669
+ask px       17670.9
+ask aize        0.02
+exchange    HUOBIPRO
+Name: 34, dtype: object
+exchange      GATEIO
+bid size      0.7506
+bid px       17668.9
+ask px       17671.1
+ask aize    0.702356
+exchange    POLONIEX
+Name: 35, dtype: object
+exchange      HITBTC
+bid size      0.0936
+bid px       17668.9
+ask px       17671.4
+ask aize    0.055833
+exchange    HUOBIPRO
+Name: 36, dtype: object
+exchange      HITBTC
+bid size        0.12
+bid px       17668.9
+ask px       17671.5
+ask aize    0.042413
+exchange    HUOBIPRO
+Name: 37, dtype: object
+exchange     BINANCE
+bid size    0.000619
+bid px       17668.7
+ask px       17671.6
+ask aize    0.327406
+exchange    HUOBIPRO
+Name: 38, dtype: object
+exchange     BINANCE
+bid size    0.012904
+bid px       17668.7
+ask px       17671.6
+ask aize       4.035
+exchange    HUOBIPRO
+Name: 39, dtype: object
+exchange     BINANCE
+bid size       0.112
+bid px       17668.6
+ask px       17672.1
+ask aize    0.191312
+exchange     BINANCE
+Name: 40, dtype: object
+exchange     BINANCE
+bid size        0.07
+bid px       17668.4
+ask px       17672.5
+ask aize    0.455999
+exchange    HUOBIPRO
+Name: 41, dtype: object
+exchange     BINANCE
+bid size      0.0061
+bid px       17668.3
+ask px       17672.6
+ask aize        0.02
+exchange    HUOBIPRO
+Name: 42, dtype: object
+exchange     BINANCE
+bid size    0.008304
+bid px       17668.3
+ask px       17672.7
+ask aize    0.137532
+exchange    POLONIEX
+Name: 43, dtype: object
+exchange     BINANCE
+bid size      0.0061
+bid px       17668.2
+ask px       17672.8
+ask aize    0.177924
+exchange     BINANCE
+Name: 44, dtype: object
+exchange    HUOBIPRO
+bid size    0.232911
+bid px       17668.1
+ask px       17672.8
+ask aize         0.8
+exchange     BINANCE
+Name: 45, dtype: object
+exchange     BINANCE
+bid size     0.00062
+bid px         17668
+ask px       17672.8
+ask aize    0.988741
+exchange     BINANCE
+Name: 46, dtype: object
+exchange         FTX
+bid size      0.0072
+bid px         17668
+ask px       17672.9
+ask aize     0.00317
+exchange    HUOBIPRO
+Name: 47, dtype: object
+exchange      HITBTC
+bid size         0.1
+bid px         17668
+ask px         17673
+ask aize    0.024973
+exchange     BINANCE
+Name: 48, dtype: object
+exchange     HITBTC
+bid size    0.10605
+bid px        17668
+ask px        17673
+ask aize          2
+exchange    BINANCE
+Name: 49, dtype: object
+exchange     BINANCE
+bid size       0.227
+bid px         17668
+ask px       17673.2
+ask aize    0.021967
+exchange     BINANCE
+Name: 50, dtype: object
+exchange      HITBTC
+bid size         0.1
+bid px         17668
+ask px       17673.2
+ask aize    0.044856
+exchange     BINANCE
+Name: 51, dtype: object
+exchange      HITBTC
+bid size     0.05588
+bid px         17668
+ask px       17673.3
+ask aize     0.21631
+exchange    HUOBIPRO
+Name: 52, dtype: object
+exchange     HITBTC
+bid size        0.2
+bid px        17668
+ask px      17673.4
+ask aize      0.004
+exchange    BINANCE
+Name: 53, dtype: object
+exchange     BINANCE
+bid size     0.00201
+bid px       17667.9
+ask px       17673.5
+ask aize        0.16
+exchange    HUOBIPRO
+Name: 54, dtype: object
+exchange    HUOBIPRO
+bid size       0.008
+bid px       17667.9
+ask px       17673.6
+ask aize      0.0104
+exchange    HUOBIPRO
+Name: 55, dtype: object
+exchange     BINANCE
+bid size     0.01553
+bid px       17667.9
+ask px       17673.6
+ask aize    0.019563
+exchange     BINANCE
+Name: 56, dtype: object
+exchange      HITBTC
+bid size         0.2
+bid px       17667.8
+ask px       17673.7
+ask aize         0.1
+exchange    HUOBIPRO
+Name: 57, dtype: object
+exchange    BINANCEUS
+bid size      0.01698
+bid px        17667.8
+ask px        17673.8
+ask aize         0.16
+exchange     HUOBIPRO
+Name: 58, dtype: object
+exchange      HITBTC
+bid size     0.11314
+bid px       17667.8
+ask px         17674
+ask aize    0.114279
+exchange     BINANCE
+Name: 59, dtype: object
+exchange    BINANCEUS
+bid size     0.109903
+bid px        17667.8
+ask px          17674
+ask aize     0.290723
+exchange     BITFINEX
+Name: 60, dtype: object
+exchange    BINANCE
+bid size      0.002
+bid px      17667.6
+ask px      17674.3
+ask aize       0.25
+exchange         ZB
+Name: 61, dtype: object
+exchange         FTX
+bid size      0.1527
+bid px       17667.5
+ask px       17674.9
+ask aize         0.5
+exchange    HUOBIPRO
+Name: 62, dtype: object
+exchange      HITBTC
+bid size         0.2
+bid px       17667.3
+ask px         17675
+ask aize     0.28463
+exchange    BITFINEX
+Name: 63, dtype: object
+exchange     BINANCE
+bid size    0.002316
+bid px       17667.2
+ask px         17675
+ask aize     1.99069
+exchange    HUOBIPRO
+Name: 64, dtype: object
+exchange     BINANCE
+bid size        0.07
+bid px       17667.2
+ask px       17675.1
+ask aize     1.99434
+exchange    POLONIEX
+Name: 65, dtype: object
+exchange    HUOBIPRO
+bid size       0.008
+bid px       17666.9
+ask px       17675.4
+ask aize      0.1131
+exchange    HUOBIPRO
+Name: 66, dtype: object
+exchange    HUOBIPRO
+bid size      0.0027
+bid px       17666.9
+ask px       17675.6
+ask aize        0.65
+exchange    HUOBIPRO
+Name: 67, dtype: object
+exchange    HUOBIPRO
+bid size    0.001058
+bid px       17666.5
+ask px       17675.7
+ask aize    0.424068
+exchange      KRAKEN
+Name: 68, dtype: object
+exchange       KRAKEN
+bid size    0.0355609
+bid px        17666.5
+ask px        17675.7
+ask aize     0.085035
+exchange      BINANCE
+Name: 69, dtype: object
+exchange         FTX
+bid size      0.2065
+bid px       17666.5
+ask px       17675.7
+ask aize    0.225001
+exchange     BINANCE
+Name: 70, dtype: object
+exchange      FTXUS
+bid size    90.9187
+bid px      17666.5
+ask px        17676
+ask aize    0.57295
+exchange    BINANCE
+Name: 71, dtype: object
+exchange     BINANCE
+bid size    0.000619
+bid px       17666.5
+ask px         17676
+ask aize        0.02
+exchange     BINANCE
+Name: 72, dtype: object
+exchange     BINANCE
+bid size    0.001054
+bid px       17666.5
+ask px         17676
+ask aize         0.2
+exchange    HUOBIPRO
+Name: 73, dtype: object
+exchange     BINANCE
+bid size    0.114965
+bid px       17666.2
+ask px         17676
+ask aize       1.617
+exchange     BINANCE
+Name: 74, dtype: object
+exchange     BINANCE
+bid size    0.764638
+bid px       17666.2
+ask px       17676.1
+ask aize        0.04
+exchange    HUOBIPRO
+Name: 75, dtype: object
+exchange    BINANCEUS
+bid size     0.109692
+bid px        17666.2
+ask px        17676.1
+ask aize         0.25
+exchange           ZB
+Name: 76, dtype: object
+exchange    BITFINEX
+bid size      0.0022
+bid px         17666
+ask px       17676.2
+ask aize      0.0061
+exchange     BINANCE
+Name: 77, dtype: object
+exchange         FTX
+bid size      0.2685
+bid px         17666
+ask px       17676.4
+ask aize    0.001056
+exchange    HUOBIPRO
+Name: 78, dtype: object
+exchange    HUOBIPRO
+bid size       0.008
+bid px       17665.9
+ask px       17676.4
+ask aize    0.010459
+exchange     BINANCE
+Name: 79, dtype: object
+exchange      HITBTC
+bid size        0.37
+bid px       17665.6
+ask px       17676.6
+ask aize       0.022
+exchange    HUOBIPRO
+Name: 80, dtype: object
+exchange        FTX
+bid size     0.8478
+bid px      17665.5
+ask px      17676.6
+ask aize      0.188
+exchange     GATEIO
+Name: 81, dtype: object
+exchange         ZB
+bid size       0.25
+bid px      17665.5
+ask px      17676.6
+ask aize      0.006
+exchange    BINANCE
+Name: 82, dtype: object
+exchange          ZB
+bid size      0.0589
+bid px       17665.3
+ask px       17676.9
+ask aize    0.624051
+exchange     BINANCE
+Name: 83, dtype: object
+exchange    HUOBIPRO
+bid size       0.108
+bid px       17665.2
+ask px       17676.9
+ask aize       1.783
+exchange     BINANCE
+Name: 84, dtype: object
+exchange     BITFINEX
+bid size       0.0022
+bid px          17665
+ask px        17676.9
+ask aize     0.007511
+exchange    BINANCEUS
+Name: 85, dtype: object
+exchange    HUOBIPRO
+bid size       0.008
+bid px       17664.9
+ask px         17677
+ask aize      0.0451
+exchange    BITFINEX
+Name: 86, dtype: object
+exchange        FTX
+bid size     0.3245
+bid px      17664.5
+ask px      17677.1
+ask aize      0.098
+exchange     GATEIO
+Name: 87, dtype: object
+exchange     HITBTC
+bid size        0.2
+bid px      17664.2
+ask px      17677.4
+ask aize     0.7506
+exchange     GATEIO
+Name: 88, dtype: object
+exchange          ZB
+bid size      0.8066
+bid px       17664.2
+ask px         17678
+ask aize     1.12157
+exchange    BITFINEX
+Name: 89, dtype: object
+exchange     GATEIO
+bid size      0.488
+bid px      17664.1
+ask px      17678.7
+ask aize          2
+exchange     HITBTC
+Name: 90, dtype: object
+exchange    BITFINEX
+bid size      0.0022
+bid px         17664
+ask px         17679
+ask aize        0.01
+exchange      GATEIO
+Name: 91, dtype: object
+exchange     HUOBIPRO
+bid size      3.47312
+bid px          17664
+ask px        17679.4
+ask aize    0.0590252
+exchange       KRAKEN
+Name: 92, dtype: object
+exchange     HUOBIPRO
+bid size     0.050423
+bid px          17664
+ask px        17679.5
+ask aize    0.0625387
+exchange       KRAKEN
+Name: 93, dtype: object
+exchange    HUOBIPRO
+bid size       0.008
+bid px       17663.9
+ask px       17679.6
+ask aize         0.4
+exchange      HITBTC
+Name: 94, dtype: object
+exchange    BINANCEUS
+bid size         0.14
+bid px        17663.9
+ask px        17679.6
+ask aize          0.1
+exchange       HITBTC
+Name: 95, dtype: object
+exchange    HUOBIPRO
+bid size       0.002
+bid px       17663.8
+ask px       17679.6
+ask aize       0.846
+exchange      KRAKEN
+Name: 96, dtype: object
+exchange         ZB
+bid size     0.0703
+bid px      17663.8
+ask px      17679.6
+ask aize        0.1
+exchange     HITBTC
+Name: 97, dtype: object
+exchange         ZB
+bid size       0.25
+bid px      17663.7
+ask px      17679.6
+ask aize    2.22103
+exchange     HITBTC
+Name: 98, dtype: object
+exchange     HITBTC
+bid size      0.046
+bid px      17663.7
+ask px      17679.7
+ask aize      0.031
+exchange         ZB
+Name: 99, dtype: object
+exchange    HUOBIPRO
+bid size    0.137004
+bid px       17663.6
+ask px       17679.7
+ask aize       0.034
+exchange          ZB
+Name: 100, dtype: object
+exchange       KRAKEN
+bid size    0.0625306
+bid px        17663.4
+ask px        17679.8
+ask aize         0.25
+exchange           ZB
+Name: 101, dtype: object
+exchange     HITBTC
+bid size       0.94
+bid px      17663.3
+ask px      17679.8
+ask aize    0.19406
+exchange     HITBTC
+Name: 102, dtype: object
+exchange      KRAKEN
+bid size    0.423951
+bid px       17663.3
+ask px       17679.8
+ask aize     0.19406
+exchange      HITBTC
+Name: 103, dtype: object
+exchange     HITBTC
+bid size       0.04
+bid px        17663
+ask px      17679.8
+ask aize    0.01462
+exchange     HITBTC
+Name: 104, dtype: object
+exchange    BITFINEX
+bid size      0.0022
+bid px         17663
+ask px       17679.9
+ask aize           2
+exchange      HITBTC
+Name: 105, dtype: object
+exchange      HITBTC
+bid size         0.1
+bid px         17663
+ask px         17680
+ask aize     1.19838
+exchange    BITFINEX
+Name: 106, dtype: object
+exchange     HUOBIPRO
+bid size     0.001058
+bid px          17663
+ask px          17681
+ask aize    0.0590171
+exchange     BITFINEX
+Name: 107, dtype: object
+exchange      HITBTC
+bid size        0.04
+bid px       17662.9
+ask px         17681
+ask aize    0.423933
+exchange      KRAKEN
+Name: 108, dtype: object
+exchange    HUOBIPRO
+bid size    0.001416
+bid px       17662.7
+ask px       17681.2
+ask aize      0.0802
+exchange      KRAKEN
+Name: 109, dtype: object
+exchange        FTX
+bid size     0.0096
+bid px      17662.5
+ask px      17681.3
+ask aize    0.13014
+exchange     KRAKEN
+Name: 110, dtype: object
+exchange         ZB
+bid size     3.8103
+bid px      17662.4
+ask px      17681.3
+ask aize       0.01
+exchange     GATEIO
+Name: 111, dtype: object
+exchange         GATEIO
+bid size    0.000102133
+bid px          17662.3
+ask px          17681.7
+ask aize       0.089126
+exchange      BINANCEUS
+Name: 112, dtype: object
+exchange     BITFINEX
+bid size     0.148407
+bid px          17662
+ask px        17681.7
+ask aize     0.042347
+exchange    BINANCEUS
+Name: 113, dtype: object
+exchange          FTX
+bid size        1.008
+bid px          17662
+ask px        17681.8
+ask aize     0.115809
+exchange    BINANCEUS
+Name: 114, dtype: object
+exchange        FTXUS
+bid size       81.081
+bid px          17662
+ask px        17681.8
+ask aize     0.109776
+exchange    BINANCEUS
+Name: 115, dtype: object
+exchange          ZB
+bid size        0.25
+bid px         17662
+ask px         17682
+ask aize     1.89528
+exchange    BITFINEX
+Name: 116, dtype: object
+exchange    HUOBIPRO
+bid size    0.662592
+bid px       17661.9
+ask px         17682
+ask aize        0.01
+exchange         FTX
+Name: 117, dtype: object
+exchange       KRAKEN
+bid size    0.0295109
+bid px        17661.8
+ask px        17682.2
+ask aize        0.532
+exchange       HITBTC
+Name: 118, dtype: object
+exchange    HUOBIPRO
+bid size      0.0005
+bid px       17661.7
+ask px       17682.5
+ask aize       0.059
+exchange         FTX
+Name: 119, dtype: object
+exchange    BINANCEUS
+bid size       0.0441
+bid px        17661.5
+ask px          17683
+ask aize      0.26926
+exchange     BITFINEX
+Name: 120, dtype: object
+exchange    BINANCEUS
+bid size          0.7
+bid px        17661.5
+ask px          17683
+ask aize       0.5837
+exchange          FTX
+Name: 121, dtype: object
+exchange       KRAKEN
+bid size    0.0590251
+bid px        17661.3
+ask px        17683.6
+ask aize     0.423888
+exchange       KRAKEN
+Name: 122, dtype: object
+exchange         ZB
+bid size     0.2931
+bid px      17661.3
+ask px        17684
+ask aize      0.053
+exchange     GATEIO
+Name: 123, dtype: object
+exchange    BITFINEX
+bid size    0.120234
+bid px         17661
+ask px         17684
+ask aize       0.002
+exchange    BITFINEX
+Name: 124, dtype: object
+exchange    BINANCEUS
+bid size     0.111028
+bid px        17660.7
+ask px        17684.1
+ask aize    0.0295116
+exchange       KRAKEN
+Name: 125, dtype: object
+exchange       KRAKEN
+bid size    0.0885289
+bid px        17660.6
+ask px        17684.4
+ask aize     0.351748
+exchange    BINANCEUS
+Name: 126, dtype: object
+exchange    HUOBIPRO
+bid size    0.006121
+bid px       17660.6
+ask px       17684.4
+ask aize           1
+exchange    POLONIEX
+Name: 127, dtype: object
+exchange      KRAKEN
+bid size    0.118039
+bid px       17660.3
+ask px       17684.4
+ask aize      0.1439
+exchange    POLONIEX
+Name: 128, dtype: object
+exchange    HUOBIPRO
+bid size    0.000707
+bid px       17660.2
+ask px       17684.5
+ask aize       0.118
+exchange         FTX
+Name: 129, dtype: object
+exchange    HUOBIPRO
+bid size      0.0174
+bid px       17660.1
+ask px       17684.5
+ask aize      1.1098
+exchange       FTXUS
+Name: 130, dtype: object
+exchange    HUOBIPRO
+bid size     0.02953
+bid px         17660
+ask px       17684.7
+ask aize           2
+exchange    POLONIEX
+Name: 131, dtype: object
+exchange    BITFINEX
+bid size      0.0022
+bid px         17660
+ask px       17684.9
+ask aize       0.068
+exchange      GATEIO
+Name: 132, dtype: object
+exchange    HUOBIPRO
+bid size         0.1
+bid px         17660
+ask px         17685
+ask aize     1.32262
+exchange    BITFINEX
+Name: 133, dtype: object
+exchange      GATEIO
+bid size    0.002831
+bid px         17660
+ask px         17685
+ask aize      0.3655
+exchange         FTX
+Name: 134, dtype: object
+exchange     HUOBIPRO
+bid size        0.017
+bid px          17660
+ask px        17685.5
+ask aize    0.0119763
+exchange       KRAKEN
+Name: 135, dtype: object
+exchange      FTXUS
+bid size    117.562
+bid px      17659.5
+ask px      17685.6
+ask aize    0.14471
+exchange     KRAKEN
+Name: 136, dtype: object
+exchange    HUOBIPRO
+bid size    0.001059
+bid px       17659.4
+ask px         17686
+ask aize      2.6986
+exchange    BITFINEX
+Name: 137, dtype: object
+exchange    HUOBIPRO
+bid size       1.745
+bid px       17659.3
+ask px       17686.4
+ask aize     0.02312
+exchange      HITBTC
+Name: 138, dtype: object
+exchange         ZB
+bid size     0.5862
+bid px      17659.1
+ask px      17686.5
+ask aize     0.0295
+exchange        FTX
+Name: 139, dtype: object
+exchange    BINANCEUS
+bid size     0.274229
+bid px          17659
+ask px        17686.8
+ask aize         0.12
+exchange       HITBTC
+Name: 140, dtype: object
+exchange    BITFINEX
+bid size      0.3891
+bid px         17659
+ask px         17687
+ask aize       0.072
+exchange    BITFINEX
+Name: 141, dtype: object
+exchange     FTXUS
+bid size    1.0592
+bid px       17659
+ask px       17687
+ask aize     0.424
+exchange       FTX
+Name: 142, dtype: object
+exchange           ZB
+bid size       0.2931
+bid px        17658.3
+ask px        17687.2
+ask aize         0.01
+exchange    BINANCEUS
+Name: 143, dtype: object
+exchange     GATEIO
+bid size     0.1489
+bid px      17658.3
+ask px      17687.5
+ask aize     0.1246
+exchange        FTX
+Name: 144, dtype: object
+exchange         ZB
+bid size     0.5862
+bid px      17658.2
+ask px      17687.5
+ask aize     12.069
+exchange      FTXUS
+Name: 145, dtype: object
+exchange    BITFINEX
+bid size     0.18403
+bid px         17658
+ask px       17687.5
+ask aize        0.01
+exchange      GATEIO
+Name: 146, dtype: object
+exchange         ZB
+bid size     0.7114
+bid px      17657.8
+ask px        17688
+ask aize     0.8066
+exchange         ZB
+Name: 147, dtype: object
+exchange          ZB
+bid size      0.2931
+bid px       17657.7
+ask px         17688
+ask aize    0.011894
+exchange    BITFINEX
+Name: 148, dtype: object
+exchange         ZB
+bid size     1.1724
+bid px      17657.7
+ask px        17688
+ask aize     0.0885
+exchange        FTX
+Name: 149, dtype: object
+exchange    BINANCEUS
+bid size     0.183533
+bid px        17657.5
+ask px          17688
+ask aize       0.0439
+exchange           ZB
+Name: 150, dtype: object
+exchange         ZB
+bid size     0.2931
+bid px      17657.5
+ask px      17688.1
+ask aize      0.488
+exchange     GATEIO
+Name: 151, dtype: object
+exchange     GATEIO
+bid size     0.2827
+bid px      17657.2
+ask px      17688.2
+ask aize    0.53425
+exchange     HITBTC
+Name: 152, dtype: object
+exchange    BITFINEX
+bid size      0.0022
+bid px         17657
+ask px       17688.3
+ask aize    0.118018
+exchange      KRAKEN
+Name: 153, dtype: object
+exchange     BITFINEX
+bid size      0.12032
+bid px          17656
+ask px        17688.5
+ask aize    0.0885197
+exchange       KRAKEN
+Name: 154, dtype: object
+exchange         ZB
+bid size      0.042
+bid px      17655.4
+ask px      17688.5
+ask aize     0.1217
+exchange     HITBTC
+Name: 155, dtype: object
+exchange    POLONIEX
+bid size    0.113552
+bid px       17655.2
+ask px       17688.5
+ask aize     0.09296
+exchange      HITBTC
+Name: 156, dtype: object
+exchange     POLONIEX
+bid size    0.0403808
+bid px        17655.2
+ask px        17688.5
+ask aize       0.1464
+exchange       HITBTC
+Name: 157, dtype: object
+exchange     POLONIEX
+bid size      0.35683
+bid px        17655.2
+ask px        17688.5
+ask aize         0.14
+exchange    BINANCEUS
+Name: 158, dtype: object
+exchange    BITFINEX
+bid size    0.496167
+bid px         17655
+ask px       17688.6
+ask aize      0.1933
+exchange      HITBTC
+Name: 159, dtype: object
+exchange      FTXUS
+bid size    88.0712
+bid px      17654.5
+ask px      17688.6
+ask aize     0.3454
+exchange     HITBTC
+Name: 160, dtype: object
+exchange    BITFINEX
+bid size     1.77363
+bid px         17654
+ask px       17688.7
+ask aize      0.0691
+exchange      HITBTC
+Name: 161, dtype: object
+exchange       FTXUS
+bid size      119.74
+bid px         17654
+ask px         17689
+ask aize     0.32012
+exchange    BITFINEX
+Name: 162, dtype: object
+exchange         ZB
+bid size     0.0409
+bid px      17653.1
+ask px      17689.2
+ask aize    0.10268
+exchange     KRAKEN
+Name: 163, dtype: object
+exchange     BITFINEX
+bid size      1.33942
+bid px          17653
+ask px        17689.3
+ask aize     0.130023
+exchange    BINANCEUS
+Name: 164, dtype: object
+exchange     GATEIO
+bid size     0.1894
+bid px      17652.3
+ask px      17689.5
+ask aize     0.1538
+exchange     GATEIO
+Name: 165, dtype: object
+exchange    BITFINEX
+bid size      0.0022
+bid px         17652
+ask px       17689.5
+ask aize     0.13984
+exchange      KRAKEN
+Name: 166, dtype: object
+exchange    BINANCEUS
+bid size       0.1272
+bid px        17651.7
+ask px        17689.5
+ask aize       1.2093
+exchange          FTX
+Name: 167, dtype: object
+exchange    BINANCEUS
+bid size     0.142384
+bid px        17651.7
+ask px        17689.5
+ask aize       1.9595
+exchange       HITBTC
+Name: 168, dtype: object
+exchange     GATEIO
+bid size     0.0002
+bid px      17651.6
+ask px      17689.6
+ask aize        0.1
+exchange     KRAKEN
+Name: 169, dtype: object
+exchange    BINANCEUS
+bid size     0.551735
+bid px        17651.5
+ask px          17690
+ask aize      1.76951
+exchange     BITFINEX
+Name: 170, dtype: object
+exchange         FTX
+bid size      0.0168
+bid px       17651.5
+ask px         17690
+ask aize    0.565462
+exchange      KRAKEN
+Name: 171, dtype: object
+exchange         ZB
+bid size     0.1449
+bid px      17651.4
+ask px      17690.5
+ask aize      2.931
+exchange         ZB
+Name: 172, dtype: object
+exchange    POLONIEX
+bid size    0.111874
+bid px       17651.2
+ask px       17690.6
+ask aize    0.324553
+exchange      KRAKEN
+Name: 173, dtype: object
+exchange     BITFINEX
+bid size       0.0022
+bid px          17651
+ask px        17690.6
+ask aize     0.276723
+exchange    BINANCEUS
+Name: 174, dtype: object
+exchange           FTX
+bid size        15.572
+bid px           17651
+ask px         17690.7
+ask aize    0.00099818
+exchange      POLONIEX
+Name: 175, dtype: object
+exchange      KRAKEN
+bid size    0.564737
+bid px       17650.8
+ask px         17691
+ask aize     1.98293
+exchange    BITFINEX
+Name: 176, dtype: object
+exchange    BITFINEX
+bid size      0.3125
+bid px         17650
+ask px         17691
+ask aize      0.1896
+exchange         FTX
+Name: 177, dtype: object
+exchange      FTXUS
+bid size    101.881
+bid px      17649.5
+ask px      17691.3
+ask aize        0.1
+exchange     KRAKEN
+Name: 178, dtype: object
+exchange    BITFINEX
+bid size      0.0022
+bid px         17649
+ask px       17691.5
+ask aize     13.0826
+exchange         FTX
+Name: 179, dtype: object
+exchange     GATEIO
+bid size        0.3
+bid px      17648.1
+ask px      17691.8
+ask aize     1.3028
+exchange     HITBTC
+Name: 180, dtype: object
+exchange    BITFINEX
+bid size     2.34246
+bid px         17648
+ask px         17692
+ask aize      0.0314
+exchange      HITBTC
+Name: 181, dtype: object
+exchange         FTX
+bid size      0.0002
+bid px         17648
+ask px         17692
+ask aize       0.002
+exchange    BITFINEX
+Name: 182, dtype: object
+exchange     POLONIEX
+bid size      0.27845
+bid px        17647.5
+ask px          17692
+ask aize     0.016957
+exchange    BINANCEUS
+Name: 183, dtype: object
+exchange     GATEIO
+bid size        0.3
+bid px      17647.4
+ask px      17692.3
+ask aize     0.5638
+exchange     HITBTC
+Name: 184, dtype: object
+exchange     GATEIO
+bid size        0.3
+bid px      17647.3
+ask px      17692.4
+ask aize     0.1581
+exchange     HITBTC
+Name: 185, dtype: object
+exchange    POLONIEX
+bid size    0.623661
+bid px         17647
+ask px       17692.4
+ask aize      0.8544
+exchange      HITBTC
+Name: 186, dtype: object
+exchange    BITFINEX
+bid size     2.00807
+bid px         17647
+ask px       17692.6
+ask aize      0.0291
+exchange      GATEIO
+Name: 187, dtype: object
+exchange    BITFINEX
+bid size      0.0022
+bid px         17646
+ask px         17693
+ask aize      1.2655
+exchange    BITFINEX
+Name: 188, dtype: object
+exchange    BITFINEX
+bid size      0.4671
+bid px         17645
+ask px       17693.3
+ask aize    0.335514
+exchange      KRAKEN
+Name: 189, dtype: object
+exchange         ZB
+bid size      0.401
+bid px      17644.1
+ask px      17693.4
+ask aize    0.11775
+exchange     KRAKEN
+Name: 190, dtype: object
+exchange    BITFINEX
+bid size      0.0022
+bid px         17644
+ask px       17693.4
+ask aize      0.5862
+exchange          ZB
+Name: 191, dtype: object
+exchange    BINANCEUS
+bid size     0.422015
+bid px        17643.3
+ask px        17693.4
+ask aize       0.5862
+exchange           ZB
+Name: 192, dtype: object
+exchange    BITFINEX
+bid size      0.0022
+bid px         17643
+ask px       17693.5
+ask aize      0.5862
+exchange          ZB
+Name: 193, dtype: object
+exchange      GATEIO
+bid size       0.009
+bid px       17642.9
+ask px       17693.8
+ask aize    0.874103
+exchange      KRAKEN
+Name: 194, dtype: object
+exchange       KRAKEN
+bid size    0.0282785
+bid px        17642.6
+ask px          17694
+ask aize      3.25409
+exchange     BITFINEX
+Name: 195, dtype: object
+exchange      KRAKEN
+bid size    0.681379
+bid px       17642.5
+ask px         17694
+ask aize      1.1724
+exchange          ZB
+Name: 196, dtype: object
+exchange     KRAKEN
+bid size     0.9595
+bid px      17642.2
+ask px      17694.4
+ask aize     1.1724
+exchange         ZB
+Name: 197, dtype: object
+exchange    BITFINEX
+bid size    0.117285
+bid px         17642
+ask px       17694.5
+ask aize      0.8793
+exchange          ZB
+Name: 198, dtype: object
+exchange    BINANCEUS
+bid size     0.097321
+bid px        17641.9
+ask px        17694.5
+ask aize       0.8793
+exchange           ZB
+Name: 199, dtype: object
+exchange     POLONIEX
+bid size    0.0188498
+bid px        17640.2
+ask px          17695
+ask aize       0.4215
+exchange     POLONIEX
+Name: 200, dtype: object
+exchange    POLONIEX
+bid size      0.1439
+bid px       17640.2
+ask px         17695
+ask aize      0.3123
+exchange    BITFINEX
+Name: 201, dtype: object
+exchange    POLONIEX
+bid size           1
+bid px       17640.1
+ask px         17695
+ask aize         0.1
+exchange      KRAKEN
+Name: 202, dtype: object
+exchange      POLONIEX
+bid size     0.0175531
+bid px           17640
+ask px           17695
+ask aize    0.00018126
+exchange      POLONIEX
+Name: 203, dtype: object
+exchange         ZB
+bid size     0.0351
+bid px      17638.7
+ask px        17695
+ask aize     1.7586
+exchange         ZB
+Name: 204, dtype: object
+exchange     KRAKEN
+bid size     0.0802
+bid px      17638.4
+ask px        17695
+ask aize      2.931
+exchange         ZB
+Name: 205, dtype: object
+exchange    BINANCEUS
+bid size     0.065794
+bid px        17638.4
+ask px        17695.2
+ask aize    0.0810501
+exchange     POLONIEX
+Name: 206, dtype: object
+exchange        FTX
+bid size    16.2106
+bid px        17638
+ask px      17695.3
+ask aize     0.5862
+exchange         ZB
+Name: 207, dtype: object
+exchange    BINANCEUS
+bid size        0.426
+bid px        17637.2
+ask px        17695.3
+ask aize       1.0323
+exchange       KRAKEN
+Name: 208, dtype: object
+exchange    BINANCEUS
+bid size      0.91621
+bid px        17637.2
+ask px        17695.5
+ask aize       0.8479
+exchange          FTX
+Name: 209, dtype: object
+exchange          ZB
+bid size      0.4233
+bid px       17636.7
+ask px         17696
+ask aize     1.26256
+exchange    BITFINEX
+Name: 210, dtype: object
+exchange      FTXUS
+bid size    110.519
+bid px        17636
+ask px        17696
+ask aize      0.125
+exchange        FTX
+Name: 211, dtype: object
+exchange     KRAKEN
+bid size      0.303
+bid px      17635.2
+ask px      17696.1
+ask aize        0.1
+exchange     KRAKEN
+Name: 212, dtype: object
+exchange         ZB
+bid size     0.0395
+bid px      17635.2
+ask px      17696.5
+ask aize    75.6314
+exchange      FTXUS
+Name: 213, dtype: object
+exchange       KRAKEN
+bid size     0.565307
+bid px          17635
+ask px        17696.6
+ask aize     0.472551
+exchange    BINANCEUS
+Name: 214, dtype: object
+exchange     POLONIEX
+bid size    0.0582549
+bid px        17634.8
+ask px          17697
+ask aize      2.96477
+exchange     BITFINEX
+Name: 215, dtype: object
+exchange    POLONIEX
+bid size      0.4215
+bid px       17634.8
+ask px       17697.5
+ask aize      0.0001
+exchange         FTX
+Name: 216, dtype: object
+exchange     POLONIEX
+bid size        0.001
+bid px        17634.8
+ask px        17697.6
+ask aize     0.120297
+exchange    BINANCEUS
+Name: 217, dtype: object
+exchange      GATEIO
+bid size         1.6
+bid px       17634.6
+ask px         17698
+ask aize     2.32339
+exchange    BITFINEX
+Name: 218, dtype: object
+exchange     GATEIO
+bid size     0.5082
+bid px      17634.6
+ask px      17698.6
+ask aize      0.009
+exchange     GATEIO
+Name: 219, dtype: object
+exchange    POLONIEX
+bid size    0.138764
+bid px       17633.5
+ask px         17699
+ask aize     1.67446
+exchange    BITFINEX
+Name: 220, dtype: object
+exchange       KRAKEN
+bid size    0.0100064
+bid px        17632.9
+ask px          17700
+ask aize        0.002
+exchange     BITFINEX
+Name: 221, dtype: object
+exchange      FTXUS
+bid size     128.81
+bid px      17632.5
+ask px        17700
+ask aize     0.7465
+exchange        FTX
+Name: 222, dtype: object
+exchange     BINANCEUS
+bid size       0.26507
+bid px         17631.6
+ask px           17700
+ask aize    0.00160909
+exchange      POLONIEX
+Name: 223, dtype: object
+exchange      POLONIEX
+bid size    0.00059663
+bid px         17631.1
+ask px         17700.2
+ask aize      0.088966
+exchange     BINANCEUS
+Name: 224, dtype: object
+exchange      KRAKEN
+bid size    0.565424
+bid px       17630.4
+ask px       17701.9
+ask aize         0.3
+exchange      GATEIO
+Name: 225, dtype: object
+exchange        FTX
+bid size     0.0017
+bid px        17630
+ask px      17702.1
+ask aize        0.3
+exchange     GATEIO
+Name: 226, dtype: object
+exchange      POLONIEX
+bid size    0.00716505
+bid px           17630
+ask px         17703.7
+ask aize        0.0295
+exchange        GATEIO
+Name: 227, dtype: object
+exchange        FTX
+bid size     0.0002
+bid px        17627
+ask px      17704.8
+ask aize     0.0407
+exchange         ZB
+Name: 228, dtype: object
+exchange    POLONIEX
+bid size     0.13287
+bid px       17626.3
+ask px       17704.9
+ask aize         0.4
+exchange          ZB
+Name: 229, dtype: object
+exchange        FTXUS
+bid size      189.395
+bid px        17625.5
+ask px        17705.3
+ask aize       0.0441
+exchange    BINANCEUS
+Name: 230, dtype: object
+exchange     KRAKEN
+bid size      0.017
+bid px      17624.9
+ask px      17705.3
+ask aize     0.0282
+exchange     GATEIO
+Name: 231, dtype: object
+exchange       KRAKEN
+bid size    0.0221456
+bid px        17624.8
+ask px        17705.5
+ask aize      80.2736
+exchange        FTXUS
+Name: 232, dtype: object
+exchange    BINANCEUS
+bid size      1.30346
+bid px        17622.9
+ask px        17705.6
+ask aize     0.395659
+exchange    BINANCEUS
+Name: 233, dtype: object
+exchange        GATEIO
+bid size    0.00065667
+bid px         17621.5
+ask px         17705.9
+ask aize      0.971551
+exchange     BINANCEUS
+Name: 234, dtype: object
+exchange       FTX
+bid size    0.3973
+bid px       17621
+ask px       17706
+ask aize         1
+exchange        ZB
+Name: 235, dtype: object
+exchange    POLONIEX
+bid size     0.84573
+bid px       17620.1
+ask px       17706.5
+ask aize     90.5349
+exchange       FTXUS
+Name: 236, dtype: object
+exchange    POLONIEX
+bid size           9
+bid px         17620
+ask px       17706.9
+ask aize      0.0885
+exchange      GATEIO
+Name: 237, dtype: object
+exchange         ZB
+bid size        0.4
+bid px      17617.9
+ask px        17707
+ask aize        0.3
+exchange     GATEIO
+Name: 238, dtype: object
+exchange    POLONIEX
+bid size      1.4473
+bid px       17617.6
+ask px         17708
+ask aize       0.869
+exchange         FTX
+Name: 239, dtype: object
+exchange          ZB
+bid size      0.0568
+bid px       17617.4
+ask px         17709
+ask aize         0.1
+exchange    POLONIEX
+Name: 240, dtype: object
+exchange      GATEIO
+bid size      0.0283
+bid px         17617
+ask px         17709
+ask aize    0.108453
+exchange    POLONIEX
+Name: 241, dtype: object
+exchange      FTXUS
+bid size    140.399
+bid px      17614.5
+ask px      17709.2
+ask aize     0.0678
+exchange     GATEIO
+Name: 242, dtype: object
+exchange     GATEIO
+bid size      0.019
+bid px      17614.2
+ask px      17709.3
+ask aize     0.0449
+exchange         ZB
+Name: 243, dtype: object
+exchange    BINANCEUS
+bid size     0.483314
+bid px        17613.7
+ask px        17709.4
+ask aize       0.1489
+exchange       GATEIO
+Name: 244, dtype: object
+exchange      POLONIEX
+bid size    0.00094291
+bid px         17611.8
+ask px         17709.7
+ask aize           0.3
+exchange        GATEIO
+Name: 245, dtype: object
+exchange      KRAKEN
+bid size      0.2432
+bid px       17611.5
+ask px       17709.8
+ask aize      0.1891
+exchange    POLONIEX
+Name: 246, dtype: object
+exchange       KRAKEN
+bid size       0.1976
+bid px        17611.4
+ask px          17710
+ask aize    0.0349059
+exchange     POLONIEX
+Name: 247, dtype: object
+exchange      POLONIEX
+bid size    0.00014091
+bid px         17611.4
+ask px         17710.3
+ask aize           0.3
+exchange        GATEIO
+Name: 248, dtype: object
+exchange      POLONIEX
+bid size    0.00631027
+bid px         17611.3
+ask px         17711.8
+ask aize           0.3
+exchange        GATEIO
+Name: 249, dtype: object
+exchange     KRAKEN
+bid size     0.8142
+bid px      17611.3
+ask px        17712
+ask aize     0.0261
+exchange     GATEIO
+Name: 250, dtype: object
+exchange      FTXUS
+bid size    165.577
+bid px        17608
+ask px      17712.1
+ask aize      0.401
+exchange         ZB
+Name: 251, dtype: object
+exchange        FTXUS
+bid size      183.881
+bid px        17607.5
+ask px        17712.7
+ask aize      0.31198
+exchange    BINANCEUS
+Name: 252, dtype: object
+exchange     POLONIEX
+bid size    0.0053572
+bid px          17607
+ask px        17713.7
+ask aize          0.3
+exchange       GATEIO
+Name: 253, dtype: object
+exchange        GATEIO
+bid size    0.00283155
+bid px         17603.8
+ask px           17714
+ask aize        0.0002
+exchange           FTX
+Name: 254, dtype: object
+exchange      FTXUS
+bid size    114.265
+bid px      17603.5
+ask px      17714.5
+ask aize    10.7922
+exchange        FTX
+Name: 255, dtype: object
+exchange    BINANCEUS
+bid size      1.14662
+bid px        17602.6
+ask px          17715
+ask aize       0.0002
+exchange          FTX
+Name: 256, dtype: object
+exchange    BINANCEUS
+bid size     0.707541
+bid px        17602.1
+ask px        17715.6
+ask aize       0.1272
+exchange    BINANCEUS
+Name: 257, dtype: object
+exchange        FTXUS
+bid size      184.101
+bid px          17601
+ask px        17715.6
+ask aize     0.563647
+exchange    BINANCEUS
+Name: 258, dtype: object
+exchange    BINANCEUS
+bid size     0.008177
+bid px          17600
+ask px          17716
+ask aize      91.0099
+exchange        FTXUS
+Name: 259, dtype: object
+exchange          ZB
+bid size      0.0873
+bid px         17600
+ask px         17717
+ask aize           1
+exchange    POLONIEX
+Name: 260, dtype: object
+exchange     KRAKEN
+bid size    2.09658
+bid px        17586
+ask px      17717.1
+ask aize     0.1252
+exchange         ZB
+Name: 261, dtype: object
+exchange       FTXUS
+bid size     166.912
+bid px         17586
+ask px       17718.9
+ask aize      1.4473
+exchange    POLONIEX
+Name: 262, dtype: object
+exchange     KRAKEN
+bid size      0.033
+bid px      17585.2
+ask px      17719.5
+ask aize    98.9071
+exchange      FTXUS
+Name: 263, dtype: object
+exchange       KRAKEN
+bid size    0.0176244
+bid px        17584.7
+ask px          17720
+ask aize       0.0015
+exchange          FTX
+Name: 264, dtype: object
+exchange       KRAKEN
+bid size       8.2035
+bid px        17583.5
+ask px        17722.7
+ask aize     0.551041
+exchange    BINANCEUS
+Name: 265, dtype: object
+exchange       OKEX
+bid size       0.01
+bid px        17575
+ask px      17723.5
+ask aize     0.0932
+exchange         ZB
+Name: 266, dtype: object
+exchange          OKEX
+bid size         0.022
+bid px         17572.8
+ask px         17728.6
+ask aize    0.00534545
+exchange      POLONIEX
+Name: 267, dtype: object
+exchange          OKEX
+bid size         0.211
+bid px         17572.7
+ask px         17728.9
+ask aize    0.00011263
+exchange      POLONIEX
+Name: 268, dtype: object
+exchange         OKEX
+bid size    0.0110576
+bid px        17572.4
+ask px          17730
+ask aize      2.05942
+exchange     POLONIEX
+Name: 269, dtype: object
+exchange          OKEX
+bid size    0.00108598
+bid px           17570
+ask px         17730.3
+ask aize           2.5
+exchange      POLONIEX
+Name: 270, dtype: object
+exchange       OKEX
+bid size       0.01
+bid px      17569.2
+ask px      17730.5
+ask aize    14.2538
+exchange        FTX
+Name: 271, dtype: object
+exchange        OKEX
+bid size    0.180021
+bid px       17569.1
+ask px         17731
+ask aize      0.0007
+exchange         FTX
+Name: 272, dtype: object
+exchange          OKEX
+bid size    0.00105882
+bid px         17568.9
+ask px           17732
+ask aize      0.505282
+exchange     BINANCEUS
+Name: 273, dtype: object
+exchange       OKEX
+bid size     0.0768
+bid px      17568.1
+ask px      17733.5
+ask aize    26.9551
+exchange        FTX
+Name: 274, dtype: object
+exchange        OKEX
+bid size         0.1
+bid px       17567.6
+ask px       17734.8
+ask aize       0.001
+exchange    POLONIEX
+Name: 275, dtype: object
+exchange        FTXUS
+bid size      158.372
+bid px        17567.5
+ask px        17734.9
+ask aize        0.426
+exchange    BINANCEUS
+Name: 276, dtype: object
+exchange        OKEX
+bid size    0.199981
+bid px       17567.5
+ask px         17735
+ask aize     94.5172
+exchange       FTXUS
+Name: 277, dtype: object
+exchange        OKEX
+bid size    0.185702
+bid px       17567.4
+ask px       17735.3
+ask aize       0.001
+exchange    POLONIEX
+Name: 278, dtype: object
+exchange         OKEX
+bid size     0.569019
+bid px          17567
+ask px        17735.7
+ask aize      1.52259
+exchange    BINANCEUS
+Name: 279, dtype: object
+exchange       OKEX
+bid size      0.205
+bid px      17566.1
+ask px        17736
+ask aize     0.0002
+exchange        FTX
+Name: 280, dtype: object
+exchange        OKEX
+bid size    0.199514
+bid px       17565.5
+ask px       17738.4
+ask aize    0.284236
+exchange    POLONIEX
+Name: 281, dtype: object
+exchange          OKEX
+bid size    0.00105813
+bid px         17565.4
+ask px         17743.5
+ask aize       0.66774
+exchange     BINANCEUS
+Name: 282, dtype: object
+exchange          OKEX
+bid size    0.00108628
+bid px           17565
+ask px         17744.5
+ask aize       140.284
+exchange         FTXUS
+Name: 283, dtype: object
+exchange        OKEX
+bid size    0.196884
+bid px       17562.5
+ask px       17745.5
+ask aize     147.087
+exchange       FTXUS
+Name: 284, dtype: object
+exchange       OKEX
+bid size     0.0776
+bid px      17562.4
+ask px        17746
+ask aize    154.607
+exchange      FTXUS
+Name: 285, dtype: object
+exchange          OKEX
+bid size    0.00105827
+bid px         17561.9
+ask px         17748.5
+ask aize       143.389
+exchange         FTXUS
+Name: 286, dtype: object
+exchange          OKEX
+bid size    0.00108658
+bid px           17560
+ask px         17752.5
+ask aize       143.949
+exchange         FTXUS
+Name: 287, dtype: object
+exchange      FTXUS
+bid size    227.778
+bid px      17559.5
+ask px        17758
+ask aize    183.018
+exchange      FTXUS
+Name: 288, dtype: object
+exchange          OKEX
+bid size    0.00105848
+bid px         17558.4
+ask px         17759.5
+ask aize        161.29
+exchange         FTXUS
+Name: 289, dtype: object
+exchange       OKEX
+bid size    1.19488
+bid px      17558.3
+ask px      17768.5
+ask aize    238.139
+exchange      FTXUS
+Name: 290, dtype: object
+exchange       OKEX
+bid size        0.2
+bid px        17558
+ask px      17769.5
+ask aize    148.143
+exchange      FTXUS
+Name: 291, dtype: object
+exchange         OKEX
+bid size    0.0621892
+bid px        17557.5
+ask px          17781
+ask aize       232.48
+exchange        FTXUS
+Name: 292, dtype: object
+exchange      FTXUS
+bid size    207.564
+bid px        17553
+ask px        17787
+ask aize    158.224
+exchange      FTXUS
+Name: 293, dtype: object
+exchange      FTXUS
+bid size    74.5703
+bid px        16805
+ask px        17800
+ask aize    169.604
+exchange      FTXUS
+Name: 294, dtype: object
+exchange      FTXUS
+bid size    85.6444
+bid px        16042
+ask px        17802
+ask aize    223.764
+exchange      FTXUS
+Name: 295, dtype: object
+exchange      FTXUS
+bid size    119.993
+bid px      15349.5
+ask px      18591.5
+ask aize     51.665
+exchange      FTXUS
+Name: 296, dtype: object
+exchange      FTXUS
+bid size    116.956
+bid px      14706.5
+ask px      19476.5
+ask aize    77.4533
+exchange      FTXUS
+Name: 297, dtype: object
+exchange      FTXUS
+bid size     157.53
+bid px      14118.5
+ask px      20365.5
+ask aize    122.122
+exchange      FTXUS
+Name: 298, dtype: object
+exchange      FTXUS
+bid size    116.058
+bid px      13575.5
+ask px      21250.5
+ask aize    103.121
+exchange      FTXUS
+Name: 299, dtype: object

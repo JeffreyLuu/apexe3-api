@@ -27,8 +27,10 @@ from apexe3.apexe3 import fetch_global_orderbook_for_pair
 import pandas as pd
 
 def init():
-    clientId = "your-client-id-goes-here"
-    clientSecret = "your-client-secret-goes-here"
+    with open('./../secret.txt', 'r') as f:
+        clientId = f.readline().strip()
+        clientSecret = f.readline().strip()
+    f.close()
     initialise(clientId, clientSecret)
 
 if __name__ == "__main__":
@@ -36,4 +38,5 @@ if __name__ == "__main__":
     #Change these values to a base or quote you are interested in
     table=pd.DataFrame(fetch_global_orderbook_for_pair("btc", "usdt", "SPOT"))
     table.columns = ['exchange', 'bid size', 'bid px', 'ask px', 'ask aize', 'exchange']
-    print(table)
+    for idx, row in table.iterrows():
+        print(row)

@@ -27,8 +27,10 @@ from apexe3.apexe3 import screen
 import pandas as pd
 
 def init():
-  clientId = "your-client-id-goes-here"
-  clientSecret = "your-client-secret-goes-here"
+  with open('./../secret.txt', 'r') as f:
+    clientId = f.readline().strip()
+    clientSecret = f.readline().strip()
+  f.close()
   initialise(clientId, clientSecret)
   
 #Filter Screen todo think of clearer name

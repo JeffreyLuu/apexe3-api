@@ -46,8 +46,10 @@ def process_liquidity_stats_update(event):
 
 
 def init():
-    clientId = "your-client-id-goes-here"
-    clientSecret = "your-client-secret-goes-here"
+    with open('./../secret.txt', 'r') as f:
+        clientId = f.readline().strip()
+        clientSecret = f.readline().strip()
+    f.close()
     emitter = initialise(clientId, clientSecret)
     emitter.on('LIVE_LIQUIDITY', process_liquidity_update)
     emitter.on('LIVE_LIQUIDITY_STATS', process_liquidity_stats_update)
